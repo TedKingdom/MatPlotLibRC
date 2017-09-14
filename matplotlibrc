@@ -1,5 +1,7 @@
 backend         : MacOSX
 text.usetex     : True
+font.family     : serif
+font.style      : normal
 font.size       : 18
 legend.fontsize : 18
 axes.labelsize  : 16
